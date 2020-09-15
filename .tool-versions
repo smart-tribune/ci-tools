@@ -1,3 +1,4 @@
 helm 2.16.8
 kubectl 1.16.10
+kubeval 0.15.0
 
