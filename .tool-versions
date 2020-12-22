@@ -1,4 +1,4 @@
-helm 3.4.0
-kubectl 1.18.9
+helm 2.17.0
+kubectl 1.17.12
 kubeval 0.15.0
 
